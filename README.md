@@ -1,7 +1,6 @@
 ### Fala ai, beleza? Meu nome é Iury Pedrosa ✌️
 
  - 🔭 Estou no início da graduação em Sistemas de Informação.
- - 🌱 Estudando atualmente redes, segurança e iniciando em algumas linguagens como C e Java.
  - ⚖️ Sou advogado e estou em transição de carreira para o desenvolvimento de software.
  - ✉️ Abaixo estão todas as minhas redes sociais e e-mail.
 
