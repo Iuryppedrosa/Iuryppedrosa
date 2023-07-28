@@ -1,6 +1,9 @@
 ### Fala ai, beleza? Meu nome é Iury Pedrosa ✌️
 
- - 🔭 Estou no início da graduação em Sistemas de Informação.
+ - 🔭 Estou no quarto periodo de Sistemas de Informação, faço estágio em uma grande empresa de Tecnologia e Comunicação, onde atuo em toda parte de tratamento dados (manutenção em bancos, Power BI, pesquisas), sustentação de aplicacoes, automações em Python e manutenções de algoritmos em Java.
+ - Meu foco é ser desenvolvedor Back End/Full stack. Atualmente tenho focado meus estudos em Java e Python, porém pretendo ter conhecimento estruturado em "T", sendo capaz de desenvolver também no Front End.
+
+   
  - ✉️ Abaixo estão todas as minhas redes sociais e e-mail.
   
   ##
