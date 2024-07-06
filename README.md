@@ -2,9 +2,11 @@
 
 - 🔑 Primeiramente, segue o link para o meu currícuolo e portifolio.
 - 📩 [Currículo](https://drive.google.com/file/d/1dZcGhA_WClK5uIL92ZDPsNGzs6HBbMdL/view?usp=share_link) || 🔍 [portfólio](https://iuryppedrosa.github.io)
+- ⚠️ Tanto o meu CV quanto o portfolio podem estar desatualizados, porém todos os projetos atuais estão aqui no github.
 
- - 🔭 Estou no quinto periodo de Sistemas de Informação, fiz estágio em uma grande empresa de Tecnologia e Comunicação, onde atuei em toda parte de tratamento dados (manutenção em bancos, Power BI, pesquisas), sustentação de aplicacoes, automações em Python e manutenções de algoritmos em Java, sendo essa a minha única experiência profissional até o momento.
- - Meu foco é ser desenvolvedor Back End/Full stack. Atualmente tenho focado meus estudos em Java e Python, porém pretendo ter conhecimento estruturado em "T", sendo capaz de desenvolver também no Front End.
+ - 🔭 Estou no sexto periodo de Sistemas de Informação, fiz estágio por um ano em uma grande empresa de Tecnologia e Comunicação, onde atuei em toda parte de tratamento dados (manutenção em bancos, Power BI, pesquisas), sustentação de aplicacoes, automações em Python e manutenções de algoritmos em Java.
+ - 🆕 Atualmente, estou como Analista Programador em uma startUp de gameficação de metas, onde mantenho o sistema atendendo chamados e desenvolvendo melhorias em VueJS e C#.
+ - 💡 Meu foco é ser desenvolvedor Back End/Full stack, que conhece a fundo as bases e teorias da ciencia da computação e consegue desenvolver softwares escaláveis e limpos.
   
  - ✉️ Abaixo estão todas as minhas redes sociais e e-mail.
   
